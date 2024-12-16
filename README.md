@@ -1,7 +1,6 @@
 # 💫 About Me:
 A desktop, back-end .Net, and mobile applications developer, with 9+ years of experience,<br>I have implemented many integrated administrative and accounting systems for multiple fields such as contracting, investment companies, food production and packaging, and others. I always strive to gain experience and improve my skills in my field of work by following up and learning new technologies.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MostafaAhmedDev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moustafahmed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MuostaphaAhmed) 
 
